@@ -9,7 +9,7 @@ function someFunction(someParam) {
 	console.log(someVariable + someString + someParam);
 }
 
-// Page Initialization
+// Page Initialization.
 window.addEventListener('DOMContentLoaded', function () {
 	/* Code block: Elements -> Code -> Event listeners. */
 	const button = document.querySelector('button');
