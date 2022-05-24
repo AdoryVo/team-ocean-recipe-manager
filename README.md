@@ -5,12 +5,28 @@
 ![Run Unit Tests](https://github.com/cse110-fa21-group5/cse110-fa21-group5/actions/workflows/run-unit-tests.yml/badge.svg)
 ![Run E2E Tests](https://github.com/cse110-fa21-group5/cse110-fa21-group5/actions/workflows/run-e2e-tests.yml/badge.svg)
 
-## 📘 Our single source of truth!
+-   **[Final Product](https://team-ocean-recipes.netlify.app/) (Developed from October 2021 to December 2021)** 
+-   _**Final overall grade: A+ (100/100)**_  
 
+> "Your app was arguably the best in the course, both in terms of look and feel and functionality. Your adherence to Agile was also commendable, and overall you worked really well as a team." - _Sanat Bhandarkar, the TA and mentor who made it all possible_
+
+## 💡 Summary/Abstract
+
+**We aim to create a recipe manager that provides
+personalization and organization to keep cooking
+efficient and productive for newer cooks & active
+and health-conscious individuals.** The recipe
+manager is designed to help users on their mission to
+improve their long-term diet in favor of homemade
+meals rather than takeout & junk food through the
+week. In addition, the recipe manager addresses
+important micro-level concerns like following a recipe’s
+ingredients & steps while cooking, tracking necessary
+ingredients for recipes in a grocery list, and easily
+performing CRUD operations on recipes.
+
+## 📘 This repository is our single source of truth!
 -   Visit our [team page](admin/team.md) for more details about our team!
-
-## 📁 File Structure
-
 -   `/.github/workflows`: GitHub Actions workflows
 -   `/.vscode/settings.json`: Project-wide configurations for VS Code
 -   `/admin`: Administrative material
@@ -29,21 +45,6 @@
     -   `/specs/brainstorm`: Brainstorming artifacts
     -   `/specs/pitch`: Pitch deck & other artifacts
     -   `/specs/schemas`: Schemas for back-end storage structures
-
-## 💡 Summary/Abstract
-
-**We aim to create a recipe manager that provides
-personalization and organization to keep cooking
-efficient and productive for newer cooks & active
-and health-conscious individuals.** The recipe
-manager is designed to help users on their mission to
-improve their long-term diet in favor of homemade
-meals rather than takeout & junk food through the
-week. In addition, the recipe manager addresses
-important micro-level concerns like following a recipe’s
-ingredients & steps while cooking, tracking necessary
-ingredients for recipes in a grocery list, and easily
-performing CRUD operations on recipes.
 
 ## 📝 Documentation
 
