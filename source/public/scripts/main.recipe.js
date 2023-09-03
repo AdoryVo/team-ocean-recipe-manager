@@ -421,7 +421,7 @@ function populateRecipe(data) {
 
 	// Image
 	const image = document.getElementById('image');
-	image.src = searchForKey(data, 'image').url || 'https://via.placeholder.com/350x150?text=No+image+found';
+	image.src = searchForKey(data, 'image').url || 'https://placehold.co/350x150?text=No+image+found';
 	image.alt = searchForKey(data, 'name');
 
 	// Ingredients - clear old & replace with new

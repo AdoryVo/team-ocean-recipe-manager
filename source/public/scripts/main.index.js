@@ -102,7 +102,7 @@ function createCards(recipeArr, source, parent) {
 
 		// Thumbnail
 		const thumbnail = newCard.querySelector('.thumbnail');
-		thumbnail.src = searchForKey(recipe, 'image').url || 'https://via.placeholder.com/172x288?text=No+image+found';
+		thumbnail.src = searchForKey(recipe, 'image').url || 'https://placehold.co/172x288?text=No+image+found';
 		thumbnail.alt = searchForKey(recipe, 'name');
 
 		// Rating
